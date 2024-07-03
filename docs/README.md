@@ -57,4 +57,4 @@ the **main page**, just click [here][project-repo-href]! 🔙
 [p2]: ./pages/2.md
 [p3]: ./pages/3.md
 
-[license-badge]: https://img.shields.io/badge/License-MIT-brightgreen.svg
+[license-badge]: https://badgen.net/badge/License/MIT/blue

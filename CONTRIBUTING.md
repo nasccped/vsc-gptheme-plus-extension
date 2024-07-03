@@ -93,6 +93,6 @@ Did you come this far with the intention of submitting an issue? ☝️
 
 
 <!-- hrefs area ---------------------------------------------------->
-[project-repo-href]: https://github.com/nasccped/vsc-gptheme-plus-extension/
+[project-repo-href]: https://github.com/nasccped/vsc-gptheme-plus-extension
 [issues-link]: https://github.com/nasccped/vsc-gptheme-plus-extension/issues
-[license-badge]: https://img.shields.io/badge/License-MIT-brightgreen.svg
+[license-badge]: https://badgen.net/badge/License/MIT/blue
