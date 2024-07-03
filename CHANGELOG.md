@@ -3,7 +3,7 @@
 All notable changes to the "vsc-gptheme-plus-extension" will be
 documented in this file.
 
-## [1.0.0] - ???
+## [1.0.0] - 2024/07/03
 
 - Initial release
 
