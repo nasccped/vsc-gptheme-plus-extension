@@ -132,4 +132,4 @@ Thank **you guys** and keep coding! ❤️
 
 [project-repo-href]: https://github.com/nasccped/vsc-gptheme-plus-extension
 
-[license-badge]: https://img.shields.io/badge/License-MIT-brightgreen.svg
+[license-badge]: https://badgen.net/badge/License/MIT/blue

@@ -1,10 +1,7 @@
 <!-- title section ----------------------------------------------->
 <h1 align="center">
 
-  <img
-  src="logo.png"
-  style="width: 280px"
-  alt="extension icon">
+  ![extension icon](./readme-logo.png)
 
   GPTheme Plus
 </h1>
@@ -13,10 +10,10 @@
 <h4 align="center">
 
   <!-- badges -->
-  ![version](https://img.shields.io/badge/Version%3A-1.0.0-brightgreen.svg)
-  ![rating](https://img.shields.io/badge/rating%3A-%2A-brightgreen.svg)
-  ![pull requests: Not Yet][pull-request-badge]
-  ![issues: yes][issues-badge]
+  ![version](https://badgen.net/vs-marketplace/v/nascc.gptheme-plus?label=Version)
+  ![rating](https://badgen.net/vs-marketplace/rating/nascc.gptheme-plus?label=Rating&&color=blue)
+  ![pull requests: not yet](https://badgen.net/badge/Pull%20Resquests/Not%20Yet/red)
+  ![issues: yes](https://badgen.net/badge/Issues/Yes/blue)
 </h4>
 
 <br>
@@ -29,7 +26,7 @@ Here, you can find the basic content such as:
   - [Instalation 📦](#installation)
   - [News 🗞️](#news)
   - [License ⚖️](#license)
-  - [Contribute 🤝](#contribute--contributors)
+  - [Contribute 🤝](#contribute-and-contributors)
   - [Extra 👨‍🏭](#extra)
 
 But, if you want to check the complete documentation, I created a
@@ -126,7 +123,7 @@ Despite all this, the extension is governed by the **MIT license
 
 
 <!-- contribute area ----------------------------------------------->
-## Contribute & Contributors
+## Contribute and Contributors
 
 Would you like to see our **list of contributors**? Would you like to
 know **how to contribute**?
@@ -167,11 +164,6 @@ content, be sure to access the [/docs folder][go-docs] at
 
 
 <!-- hrefs area ---------------------------------------------------->
-[version-badge]: <!-- https://img.shields.io/visual-studio-marketplace/v/publisher.extension-name-brightgreen.svg -->
-[rating-badge]: <!-- https://img.shields.io/vscode-marketplace/r/nickname.extension-name.brightgreen.svg -->
-[pull-request-badge]: https://img.shields.io/badge/Pull%20requests-Not%20yet-red.svg
-[issues-badge]: https://img.shields.io/badge/Issues-Yes-brightgreen.svg
-
 [project-repo-href]: https://github.com/nasccped/vsc-gptheme-plus-extension
 [changelog-href]: ./CHANGELOG.md
 [openai-website]: https://openai.com/
@@ -179,6 +171,6 @@ content, be sure to access the [/docs folder][go-docs] at
 [license-href]: ./LICENSE
 [contributing-href]: ./CONTRIBUTING.md
 [contributors-href]: ./CONTRIBUTORS.md
-[go-docs]: ./docs/
+[go-docs]: ./docs/README.md
 
-[license-badge]: https://img.shields.io/badge/License-MIT-brightgreen.svg
+[license-badge]: https://badgen.net/badge/License/MIT/blue
