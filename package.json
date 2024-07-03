@@ -1,0 +1,50 @@
+{
+  "name": "gptheme-plus",
+  "displayName": "GPTheme Plus",
+  "description": "A theme for VS Code based on the ChatGPT code view",
+  "version": "1.0.0",
+  "publisher": "nascc",
+  "license": "MIT",
+  "author": "nascc [@nasccped]",
+  "icon": "logo.png",
+  "homepage": "https://github.com/nasccped/vsc-gptheme-plus-extension",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nasccped/vsc-gptheme-plus-extension.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nasccped/vsc-gptheme-plus-extension/issues"
+  },
+  "engines": {
+    "vscode": "^1.89.1"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "keywords": [
+    "themes",
+    "theme",
+    "vs code",
+    "vs code theme",
+    "nascc",
+    "nasccped",
+    "dark",
+    "ia",
+    "gpt",
+    "chat gpt"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GPTheme Dark (Default)",
+        "uiTheme": "vs-dark",
+        "path": "./src/dark-default.json"
+      }
+    ]
+  }
+}
