@@ -2,7 +2,7 @@
   "name": "gptheme-plus",
   "displayName": "GPTheme Plus",
   "description": "A theme for VS Code based on the ChatGPT code view",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "nascc",
   "license": "MIT",
   "author": "nascc [@nasccped]",

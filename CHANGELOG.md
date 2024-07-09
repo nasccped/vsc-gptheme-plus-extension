@@ -5,13 +5,24 @@ documented in this file.
 
 
 
+## [1.0.2] - 2024-07-09
+
+- Visual fixes, only
+
+### Fixed
+
+- Find tool colors more opacity to a better visualization
+- Bottom border tabs when hovering changed. No FX now
+
+
+
 ## [1.0.1] - 2024-07-03
 
 - Some contents (links, badges, images, texts) changed / added
 
 ### Added
 
-- Lighter logo image to README.md
+- Lightweight logo image to README.md
 
 ### Fixed
 
