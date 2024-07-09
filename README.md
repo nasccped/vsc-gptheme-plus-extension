@@ -10,10 +10,10 @@
 <h4 align="center">
 
   <!-- badges -->
-  ![version](https://badgen.net/vs-marketplace/v/nascc.gptheme-plus?label=Version)
-  ![rating](https://badgen.net/vs-marketplace/rating/nascc.gptheme-plus?label=Rating&&color=blue)
-  ![pull requests: not yet](https://badgen.net/badge/Pull%20Resquests/Not%20Yet/red)
-  ![issues: yes](https://badgen.net/badge/Issues/Yes/blue)
+  [![version](https://badgen.net/vs-marketplace/v/nascc.gptheme-plus?label=Version)](#)
+  [![rating](https://badgen.net/vs-marketplace/rating/nascc.gptheme-plus?label=Rating&&color=blue)](#)
+  [![pull requests: not yet](https://badgen.net/badge/Pull%20Resquests/Not%20Yet/red)](#)
+  [![issues: yes](https://badgen.net/badge/Issues/Yes/blue)](#)
 </h4>
 
 <br>
@@ -155,11 +155,11 @@ content, be sure to access the [/docs folder][go-docs] at
 
 <p align="center">Copyright &copy; 2024 nasccped</p>
 
-<a align="center" href="#">
+<h4 align="center">
 
-![License: MIT][license-badge]
+[![License: MIT][license-badge]](#)
 
-</a>
+</h4>
 
 
 
